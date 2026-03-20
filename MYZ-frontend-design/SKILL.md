@@ -43,7 +43,7 @@ Remember: Claude is capable of extraordinary creative work. Don't hold back, sho
 
 ---
 
-## Project Reference: issueDesign
+## Reference
 
 ### Core Identity: Warm Organic Glassmorphism
 
